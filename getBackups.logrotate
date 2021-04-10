@@ -1,0 +1,8 @@
+/Users/finnlesueur/Backups/backup.log {
+	weekly 0
+	rotate 4
+	noolddir
+	notifempty
+	nocompress
+	nomail
+}
